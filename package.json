@@ -1,0 +1,15 @@
+{
+  "name": "google-hashcode",
+  "version": "0.1.0",
+  "description": "google-hashcode",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "men1n2",
+  "license": "ISC",
+  "bugs": {},
+  "dependencies": {
+  }
+}
