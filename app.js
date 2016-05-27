@@ -1,6 +1,7 @@
 'use strict';
 
 var fs = require('fs');
+
 var grid = {
     columns: 0,
     rows: 0
